@@ -32,6 +32,8 @@ Netlify
 📸 Application Screenshots
 
 Below are some previews of the Skycast 3D Weather application.
+![Weather View](screenshots/weather-view.png)
+![Light Weather View](screenshots/weather-light-view.png)
 
 🔐 API and Security
 
