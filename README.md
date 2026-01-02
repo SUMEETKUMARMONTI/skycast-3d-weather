@@ -5,7 +5,7 @@ A Modern 3D Weather Web Application
 Skycast 3D Weather is a modern, high-performance weather application built using React and Vite. It provides real-time weather data through the Weather.com API and displays it using a clean, visually rich, and 3D-styled user interface. The goal of this project is to combine accurate live weather information with a smooth and engaging user experience.
 
 Live Demo
-https://skycast-3d-weather.netlify.app
+https://skycast-3d-weather-pboixzv6y-sumeet-kumar-montis-projects.vercel.app/
 
 📖 About the Project
 
